@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermo mirabilis: or The silent language. Whereby one may learn prefectly [sic] in the space of six hours, how to impart his mind to any friend in any language, English, French, Dutch, &amp;c. tho never so deep and dangerous a secret, without the least noise, word or voice; and without the knowledge of any in company. Being a wonderful art kept secret for several ages, in Padua, and now only published to the wise and prudent, who will not expose it, as a prostitute, to every foolish, and ignorant fellow. / By Monsieur La Fin, once secretary to his Eminence the Cardinal of Richlieu.</title>
+            <author>La Fin, Charles de.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04014</idno><idno type="EEBO-CITATION">52211860</idno>
+  <idno type="VID">175713</idno>
+  <idno type="EEBO-PROQUEST">2240888195</idno>
+  
+            <idno type="STC">Wing L176B</idno>
+            <idno type="STC">ESTC R179904</idno>
+            <idno type="OCLC">52211860</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175713)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2747:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sermo mirabilis: or The silent language. Whereby one may learn prefectly [sic] in the space of six hours, how to impart his mind to any friend in any language, English, French, Dutch, &amp;c. tho never so deep and dangerous a secret, without the least noise, word or voice; and without the knowledge of any in company. Being a wonderful art kept secret for several ages, in Padua, and now only published to the wise and prudent, who will not expose it, as a prostitute, to every foolish, and ignorant fellow. / By Monsieur La Fin, once secretary to his Eminence the Cardinal of Richlieu.</title>
+                  <author>La Fin, Charles de.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, /</edition>
+               </editionStmt>
+               <extent>[2], 14 p., [3] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Salusbury at the Kings Arms, near St. Dunstans Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Fully engraved frontispiece features portraits of William and Mary, with accompanying verse and anagrams.</note>
+                  <note>Pages 13 and 14 lacking in number only.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sign language --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:175713:1"/>
+            <l>I, here, present before thy curious eye,</l>
+            <l>A World of Worth, and Map of Monarchy;</l>
+            <l>Brave <hi>William</hi> With his <hi>Queen,</hi> Who did restore</l>
+            <l>
+               <hi>Great Britain</hi>'s <hi>Rights,</hi> and broke y<seg rend="sup">e</seg>
+               <hi>Roman Whore</hi>
+            </l>
+            <l>Long live, long reign, untill their Greatness be</l>
+            <l>The World's Commander, both by land and Sea.</l>
+            <figure>
+               <figDesc>portraits of William and Mary</figDesc>
+            </figure>
+            <p>GULIELMUS ET MARIA: D. Gratia Angliae scotiae, Franciae, et Hiberniae, REX et Regina Fidei Defensores etc.</p>
+            <p>
+               <list>
+                  <item>GULLIELMUS REX</item>
+                  <item>MARIA REGINA</item>
+               </list>
+               <hi>Anagram</hi>
+               <list>
+                  <item>Re Lux sum Legi</item>
+                  <item>Jam Ara Regni</item>
+               </list>
+            </p>
+            <p>WILLIAM HENRY NASSAW, <hi>Anagram,</hi> Heavens will save him.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175713:1"/>
+            <p>
+               <hi>SERMO MIRABILIS:</hi> OR THE SILENT LANGUAGE. WHEREBY One may learn prefectly in the space of six hours, how to impart his mind to his Friend in any Language, <hi>English, Latin, French, Dutch,</hi> &amp;c. tho never so deep and dangerous a Secret, without the least Noise, Word or Voice; and without the Knowledge of any in Company.</p>
+            <p>BEING A wonderful Art kept secret for several Ages, in <hi>Padua,</hi> and now published only to the wise and prudent, who will not expose it, as a Prostitute, to every Foolish, and Ignorant Fellow.</p>
+            <p>By Monsieur <hi>La Fin,</hi> once Secretary to his <hi>Eminence,</hi> the Cardinal of <hi>Richlieu.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hug. Grot.</hi>
+               </bibl>
+               <p>Secrecy is the Curtain of Policy.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Verulan.</hi>
+               </bibl>
+               <p>The best things abused become the basest.</p>
+            </q>
+            <p>The Second Edition, with Additions of an account of several Ingenious and Curious New Books, lately published by <hi>T. Salusbury.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed and Entred according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Salusbury</hi> at the <hi>Kings Arms,</hi> near St. <hi>Dunstans</hi> Church in <hi>Fleetstreet,</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:175713:2"/>
+            <pb n="1" facs="tcp:175713:2"/>
+            <head>
+               <hi>SERMO MIRABILIS,</hi> OR THE SILENT LANGUAGE.</head>
+            <p>AS after the vulgar way of Communi<g ref="char:EOLhyphen"/>cation, Men speak their minds by Word and Voice, so by this unknown and unusual way, men declare their Minds by motions, depending on a Natural <hi>Alphabet,</hi> as followeth.</p>
+            <p>The Vowels <hi>A, E, I, O, Ʋ, Y,</hi> are signified by the Thumb and Fingers, of the left hand; <hi>A</hi> the Thumb, <hi>E</hi> the first Finger, <hi>I</hi> the se<g ref="char:EOLhyphen"/>cond Finger, <hi>O</hi> the third Finger, <hi>Ʋ</hi> the fourth or little Finger. And because there is no place for <hi>Y</hi> among the Fingers, it is set in the plain of <hi>Mars</hi> or hollow of the hand, as in the following Figure appeareth.</p>
+            <list>
+               <head>The <hi>CONSONANTS.</hi>
+               </head>
+               <item>B—Brow</item>
+               <item>C—Cheek</item>
+               <item>D —Deaf ear</item>
+               <item>F — Fore-head</item>
+               <item>G —Gullet</item>
+               <item>H — Hair</item>
+               <item>I —Eye</item>
+               <item>K —Knuckle</item>
+               <pb facs="tcp:175713:3"/>
+               <item> L —Lip</item>
+               <item>M —Mouth</item>
+               <item>N — Nose</item>
+               <item>P — Pap</item>
+               <item>Q—Quick Motion with any Finger</item>
+               <item>R—Rib</item>
+               <item>S — Shoulder</item>
+               <item>T — Temples</item>
+               <item>V—Vein in the Arm</item>
+               <item>W —Wrist</item>
+               <item>X —Two first Fingers a cross</item>
+               <item>Z —Breast, lower part</item>
+            </list>
+            <p>Now it is here to be observed that in this Alphabet, to make it the more natural and easy, every place of the body here mention'd beginneth with that Letter which it signifyeth or representeth. As <hi>Brow</hi> beginneth with <hi>B, Cheek</hi> with <hi>C,</hi> &amp;c. But there being no visi<g ref="char:EOLhyphen"/>ble place of the Face and Body beginning with <hi>D, Q, X</hi> and <hi>Z;</hi> I have borrow'd the Representation of <hi>D</hi> from the incident Quali<g ref="char:EOLhyphen"/>ty or rather Defect of the Ear, <hi>Deafness,</hi> which beginneth with <hi>D. Q</hi> from the <hi>Quick Motion</hi> of the Finger or Hand. <hi>X</hi> from its <hi>Similitude,</hi> or any two Fingers a cross. <hi>Z</hi> is represented by the lower part of the Breast. Which all, by frequent use, will become as easy and ready as any other of the Letters represented more naturally.</p>
+            <pb facs="tcp:175713:4"/>
+            <p>
+               <figure>
+                  <figDesc>human figure with letters</figDesc>
+               </figure>
+               <pb facs="tcp:175713:5"/>
+            </p>
+            <pb n="3" facs="tcp:175713:5"/>
+            <p> Thus the 24 Letters are represented by twenty four parts of the Body and Face. And, as words are spoke with the Mouth, after the common way of expressing, so is the Mind here declared by Motions, as by point<g ref="char:EOLhyphen"/>ing the first Finger of the right hand to that part or place which representeth the Letter aimed at. Thus the silent Speaker must spell every word alphabetically, to him or her who hath learned and knoweth the same, as well as himself, and after every word, for distincti<g ref="char:EOLhyphen"/>on sake, make a <hi>Sign,</hi> as by snapping with the middle Finger and Thumb of the right hand, or by some silent motion, as the stretch<g ref="char:EOLhyphen"/>ing out of the Right hand, or any other ob<g ref="char:EOLhyphen"/>servable <hi>Sign</hi> which both know and have a<g ref="char:EOLhyphen"/>greed upon.</p>
+            <p>As if you were to call one <hi>Rogue,</hi> without the Knowledge of any in Company: First you must move your Finger to your <hi>Ribs,</hi> which represent <hi>R.</hi> Then to the ring <hi>Finger</hi> of your left hand, which representeth <hi>O.</hi> Then to your <hi>Gullet,</hi> which representeth <hi>G.</hi> Then to your <hi>little Finger,</hi> which representeth <hi>Ʋ.</hi> Then to your first <hi>Finger,</hi> which representeth <hi>E.</hi> Then, after the Sign given, all these Let<g ref="char:EOLhyphen"/>ters or Motions being observed, kept in Me<g ref="char:EOLhyphen"/>mory, and put together, by him to whom the Discourse is directed, make up <hi>ROGƲE.</hi>
+            </p>
+            <pb n="4" facs="tcp:175713:6"/>
+            <p> It was my business lately to teach the La<g ref="char:EOLhyphen"/>tin Language to a Merchant's Son at his Fa<g ref="char:EOLhyphen"/>thers House in <hi>London,</hi> where a young Gentle<g ref="char:EOLhyphen"/>man came frequently to visit my Scholar, but intended to court the young Daughter, over whom the Parents kept so watchful an Eye, that the young Spark could find no opportu<g ref="char:EOLhyphen"/>nity to make his Address; but being one day at Table, and observing her to speak to me, without opening her mouth, he pry'd further in the Art, and became my Scholar, for one day; in which time, I taught him how to speak to her without the help of his Tongue, and to impart his Mind without the knowledg of her Parents. Thus,</p>
+            <p>First he moved his Finger</p>
+            <list>
+               <item>
+                  <hi>To his Mouth</hi> — M</item>
+               <item>
+                  <hi>Then to his Thumb</hi>— A</item>
+               <item>
+                  <hi>Then to his Ear</hi> —D</item>
+               <item>
+                  <hi>Then to his Thumb</hi> — A</item>
+               <item>
+                  <hi>Then to his Mouth</hi> — M</item>
+            </list>
+            <p>Then gave the <hi>Sign</hi> to signify that the word was ended, all which the Lady observing, knew that the word was <hi>Madam.</hi>
+            </p>
+            <p>
+               <hi>Then to his Eye</hi> —I</p>
+            <p>Then gave the <hi>Sign</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Then to his Lip</hi> —L</item>
+               <item>
+                  <hi>Then to his ring Finger</hi>— O</item>
+               <item>
+                  <hi>Then to the Vein of his Arm</hi> V</item>
+               <item>
+                  <hi>Then to his first Finger</hi> —E</item>
+            </list>
+            <pb n="5" facs="tcp:175713:6"/>
+            <p> Then gave the <hi>Sign.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Then to his Thumb</hi> — A</item>
+               <item>
+                  <hi>Then to his Ear</hi> — D</item>
+               <item>
+                  <hi>Then to his Mouth</hi> —M</item>
+               <item>
+                  <hi>Then to his middle Finger</hi>—I</item>
+               <item>
+                  <hi>Then to his Ribs</hi> —R</item>
+               <item>
+                  <hi>Then to his first Finger</hi>—E</item>
+            </list>
+            <p>Then gave the <hi>Sign.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Then to his Thumb</hi> — A</item>
+               <item>
+                  <hi>Then to his Nose</hi> — N</item>
+               <item>
+                  <hi>Then to his Ear</hi>— D</item>
+            </list>
+            <p>Then gave the <hi>Sign.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Then to his Thumb</hi>— A</item>
+               <item>
+                  <hi>Then to his Ear</hi> — D</item>
+               <item>
+                  <hi>Then to his Ring Finger</hi> —O</item>
+               <item>
+                  <hi>Then to his Ribs</hi> — R</item>
+               <item>
+                  <hi>Then to his first Finger</hi> — E</item>
+            </list>
+            <p>Then gave the <hi>Sign.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Then to the hallow of his hand</hi> Y</item>
+               <item>
+                  <hi>Then to his Ring Finger</hi> — O</item>
+               <item>
+                  <hi>Then to his Little Finger</hi>— U</item>
+            </list>
+            <p>All which observed and put together, make up, <hi>Madam, I love, admire, and adore you.</hi>
+            </p>
+            <p>The Ladys silent Answer was modest, and accompanied with a Smile and Blush. But the young Gentleman, under pretence of perfe<g ref="char:EOLhyphen"/>cting him in his new Language, made bold sometimes to confer with the Lady, and at last, had the Liberty of a more frequent Con<g ref="char:EOLhyphen"/>verse, by the Parents Permission; till at last
+<pb n="6" facs="tcp:175713:7"/>he obtain'd her Affection, which did conclude in a happy Marriage.</p>
+            <p>I lately made a Wager with a Gentleman to tell him his <hi>Thought:</hi> he was resolute in the adventure and laid ten to one; therefore to prevent all ground of jealousie and suspition, I desired him to go to the next Room and tell my Friend his <hi>Thought,</hi> which he did without hesitation. My Friend, by the help of this silent Language, imparted to me the Secret; which I, after a small pause, revealed publickly, at which the Gentleman being amazed, think<g ref="char:EOLhyphen"/>ing that I had known the Secrets of his heart profer'd any reward whatsoever, for the knowledge of so deep a mystery; wherein he is now a good proficient.</p>
+            <p>I was sometime ago at a Tavern in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with a Gentleman my intimate acquain<g ref="char:EOLhyphen"/>tance, whom one in company intended to ar<g ref="char:EOLhyphen"/>rest; and to that intent, having acquainted me, sent a Porter for a <hi>Serjeant</hi> to the <hi>Counter<g ref="char:EOLhyphen"/>gate:</hi> but I, to save my Friend from trouble, desired him to be gone or go to Prison; where<g ref="char:EOLhyphen"/>upon he immediately took his leave, notwith<g ref="char:EOLhyphen"/>standing his Creditor pressed him to stay and drink the other Bottle, never suspecting me to have given him any caution to prevent the imminent danger. But all the old Usurer got by it was the Serjeants company, to drink a Bottle of Wine, and the paying 5 Shillings.</p>
+            <pb n="7" facs="tcp:175713:7"/>
+            <p> But tho this <hi>Art,</hi> in it self, be both law<g ref="char:EOLhyphen"/>ful and profitable, yet is there none more lyable to abuse, by being perverted to bad and sinistrous Ends; as cheating at <hi>Cards,</hi> and other Games, betraying and trapping men for private ends, sowing Dissention among Friends, <hi>&amp;c.</hi>
+            </p>
+            <p>I knew a witty and couragious Captain in <hi>Flanders,</hi> but of a vindictive Spirit, pretend great friendship to his Lieutenant, whom he mortally hated, and in token of his pretended respect, caused me to teach him this silent way of speaking; pretending thereby to entertain the more close and frequent correspondence with him, till at last he brought him to that height of Confidence, that at all times he spoke his mind of other Officers, without Fear or Discretion. The Captain finding the Spark so flexible, accused him to the Collo<g ref="char:EOLhyphen"/>nel as an abuseful Fellow, that deserved not to keep company with civil Persons; much less to bear Commission among such worthy Gen<g ref="char:EOLhyphen"/>tlemen: And to prove his assertion sent for the Lieutenant, and (having obtained Liber<g ref="char:EOLhyphen"/>ty of the Collonel, to whom he had taught this silent Language) to iuduce the Spark, and free him from all distrust, spoke very carelesly of the Officers, and especially of the Collonel. The Lieutenant thinking all was safe, as under the covert of an unknown
+<pb n="8" facs="tcp:175713:8"/>Tongue, spoke so disgracefully of the Collo<g ref="char:EOLhyphen"/>nel, that notwithstanding his conniving then, he sent him in a short time to Prison, took from him his Commission, and sent him home in Rags to his own Country.</p>
+            <p>
+               <hi>Of Contractions and Abbreviations.</hi>
+            </p>
+            <p>As in English print, one Character repre<g ref="char:EOLhyphen"/>senteth a Word of one Syllable, as <hi>and</hi> is figured by <hi>&amp;:</hi> and as two Letters stand for a word of several Syllables, as <hi>Dr.</hi> for <hi>Doctor, Mr.</hi> for <hi>Master, &amp;c.</hi> So may the same Me<g ref="char:EOLhyphen"/>thod be used by motions in this silent Lan<g ref="char:EOLhyphen"/>guage, in all words that more frequently oc<g ref="char:EOLhyphen"/>cur. Thus,</p>
+            <p>For <hi>and</hi> joyn both your hands together.</p>
+            <p>For <hi>yes,</hi> shut your right hand.</p>
+            <p>For <hi>no,</hi> shut your left hand.</p>
+            <p>For <hi>Mr.</hi> move first to your mouth, then to your ribs.</p>
+            <p>For <hi>Dr,</hi> move first to your Ear, then to your Ribs; and be mindful to give the Sign of Distinction after every word, whither con<g ref="char:EOLhyphen"/>tracted or spoke at length.</p>
+            <p>Thus this silent Language admitteth no less of Contractions and Abbreviations, by Mo<g ref="char:EOLhyphen"/>tions, than any other doth by Letters and Cha<g ref="char:EOLhyphen"/>racters, as the Speaker thinketh fit.</p>
+            <p>
+               <hi>Of Numeration.</hi>
+            </p>
+            <p>There is one way of Numeration used a<g ref="char:EOLhyphen"/>mong the <hi>Grecians</hi> which doth not exceed the
+<pb n="9" facs="tcp:175713:8"/>Number of 24, conform to the 24 Letters of their <hi>Alphabet, Alpha</hi> representing 1. <hi>Beta</hi> 2, <hi>&amp;c.</hi> Which may be here used in this dumb Language: as the <hi>Thumb</hi>
+               <list>
+                  <item>1, the <hi>Brow</hi> 2, <hi>&amp;c.</hi> But this cometh far short to the true measure of Numeration; therefore do repre<g ref="char:EOLhyphen"/>sent the nine digit <hi>Figures,</hi> 1, 2, 3, 4, 5, 6, 7, 8, 9. and the Cypher o, by the Thumbs and Fingers of the Right and Left hands: As when I would mention 1, I demonstrate the Thumb of the Right hand,</item>
+                  <item>2 the first Finger,</item>
+                  <item>3 the middle Finger,</item>
+                  <item>4 the Ring Finger,</item>
+                  <item>5 the little Finger,</item>
+                  <item>6 the Thumb of the Left hand, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Now suppose you were to mention this present year 1692. First you must demon<g ref="char:EOLhyphen"/>strate, point out, or move the right</p>
+            <list>
+               <item>
+                  <hi>Thumb to the left Arm</hi> — 1</item>
+               <item>
+                  <hi>Then the left Thumb to the right Arm</hi> 6</item>
+               <item>
+                  <hi>Then the Ring Finger of the left hand</hi> 9</item>
+               <item>
+                  <hi>Then the first Finger of the right hand</hi> 2</item>
+            </list>
+            <p>Which, in all, make up 1692.</p>
+            <p>But if you be to express a Number bearing two or more Figures of one: sort, as 11, 22, 33, <hi>&amp;c.</hi> Then you must either demonstrate, or move the same Finger to the opposite Arm twice, or as oft as there are Figures to be ex<g ref="char:EOLhyphen"/>pressed.</p>
+            <p>As for the number 11, you must move the right Thumb to the left Arm twice, for 22
+<pb n="10" facs="tcp:175713:9"/>you must move the first Finger of the right hand to the left Arm twice, if the Number contain three figures of one sort as 333, then move the middle Finger of the right hand thrice, and so of all the Numbers of this kind.</p>
+            <p>Now to make merry one may desire any in Company to think on a Number, and tell it to his Friend; lest he forget or prevaricate, which he may wager to tell, without his in<g ref="char:EOLhyphen"/>formation; he only to whom the Number is imparted giving a few private signs, accord<g ref="char:EOLhyphen"/>ing to the Rule above mentioned.</p>
+            <p>But if by frequent use, this way of speaking should turn common, and not safe to declare one's mind by; then let any two Letters of the Alphabet, especially the <hi>Vowels,</hi> or any two of the digit Figures be changed to other Motions; and that will secure the Speaker from the lash of a dangerous hearer or infor<g ref="char:EOLhyphen"/>mer. As by changing <hi>A</hi> to the <hi>Arm, E</hi> to the <hi>Elbow, &amp;c.</hi> And as for the Figures, they may be changed without trouble as the Speaker pleaseth. And if this way of Numeration prove difficult, let the Number be spell'd at length by Letters, and that is the surer way.</p>
+            <p>
+               <hi>Of the Latin Language.</hi>
+            </p>
+            <p>AS the same Letters which write or print <hi>English,</hi> will also write or print <hi>French, Dutch,</hi> or <hi>Latin.</hi> So by the preceeding Alphabet, you
+<pb facs="tcp:175713:9"/>
+               <pb facs="tcp:175713:10"/>
+               <figure>
+                  <figDesc>human figure with letters</figDesc>
+               </figure>
+               <pb facs="tcp:175713:11"/>may express your mind whatever be the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nguage. But that they who are Masters of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Latin Tongue may have the advantage of <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>se who are unlearned. I shall here set <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wn an Alphabet, which dependeth only on <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tin words, thus.</p>
+            <p>The Vowels AEIOU are the same with <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e English.</p>
+            <list>
+               <item>B—<hi>Brachium</hi>
+               </item>
+               <item>C—<hi>Cubitus</hi>
+               </item>
+               <item>D—<hi>Dentes</hi>
+               </item>
+               <item>F—<hi>Frons</hi>
+               </item>
+               <item>G—<hi>Gena</hi>
+               </item>
+               <item>H—<hi>Humerus</hi>
+               </item>
+               <item>I—<hi>Oculus dexter</hi>
+               </item>
+               <item>L—<hi>Labium</hi>
+               </item>
+               <item>M—<hi>Mentum</hi>
+               </item>
+               <item>N—<hi>Nasus</hi>
+               </item>
+               <item>P—<hi>Pectus</hi>
+               </item>
+               <item>Q—<hi>Digiti motus celer</hi>
+               </item>
+               <item>R—<hi>Reduvia</hi>
+               </item>
+               <item>S—<hi>Supercilium sinistrum</hi>
+               </item>
+               <item>T—<hi>Tempora</hi>
+               </item>
+               <item>V—<hi>Venter</hi>
+               </item>
+               <item>X—<hi>Indices transversi</hi>
+               </item>
+            </list>
+            <p>Thus are the Latin Letters represented and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s in the English) you must move the first Fin<g ref="char:EOLhyphen"/>ger of your right hand, to that place which <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epresenteth the Letter which doth fit your purpose. As for Example 3 put case you
+<pb n="12" facs="tcp:175713:12"/>were at the Tavern, and had no Money <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bout you, and in tended to borrow a Crow<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Noble of your Friend, without the Know<g ref="char:EOLhyphen"/>ledge of any in Company, in these word<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Accommoda mihi Aureum.</hi>
+            </p>
+            <p>Move the first Finger of your right hand
+<list>
+                  <item>
+                     <hi>The Thumb of the left hand</hi>—A</item>
+                  <item>
+                     <hi>Then to your Elbow</hi> —C Cubitus</item>
+                  <item>
+                     <hi>To your Elbow again</hi> — C Cubitus</item>
+                  <item>
+                     <hi>Then to your Ring Finger</hi> — O</item>
+                  <item>
+                     <hi>Then to your Chin</hi> — M Mentum</item>
+                  <item>
+                     <hi>Then to your Ring Finger</hi> — O</item>
+                  <item>
+                     <hi>Then to your Teeth</hi> —D Dentes</item>
+                  <item>
+                     <hi>Then to your Thumb</hi> — A</item>
+               </list>
+            </p>
+            <p>Then give the sign and the word is <hi>Acc<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>moda.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Then to your Chin</hi>—M Mentum</item>
+               <item>
+                  <hi>Then to your Middle Finger</hi>—I</item>
+               <item>
+                  <hi>Then to your Shoulder</hi> — H Humerus</item>
+               <item>
+                  <hi>Then to your Middle Finger</hi>—I</item>
+               <item>Then give the Sign and the word is <hi>mihi.</hi>
+               </item>
+               <item>
+                  <hi>Then to your Thumb</hi> — A</item>
+               <item>
+                  <hi>Then to your little Finger</hi> — U</item>
+               <item>
+                  <hi>To the skin ever your Nail-</hi> R Reduvia</item>
+               <item>
+                  <hi>Then to your first Fingor</hi> —E</item>
+               <item>
+                  <hi>Then to your little Finger</hi> — U</item>
+               <item>
+                  <hi>Then to your Chin</hi> — M Mentum</item>
+            </list>
+            <p>And the Word is <hi>Aureum.</hi> Which al<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> put together make up <hi>Accommoda mihi Aureum;</hi>
+               <pb n="13" facs="tcp:175713:12"/>or lend me a Crown. And by this Means, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e may save his credit, and put his Friends <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dness to a Tryal.</p>
+            <p>As for <hi>Diphthongs,</hi> they are little necessary <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> those who are Masters of the Latin <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ongue, but the moving of two Fingers of <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e right hand to any two Vowels of the left maketh a <hi>Diphthong.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>As the Thumb and first Finger make</hi> AE</item>
+               <item>
+                  <hi>The Ring and first Finger make</hi> — OE</item>
+               <item>
+                  <hi>The Thumb and little Finger make</hi> — AU</item>
+               <item>
+                  <hi>The first and little Finger make</hi> — EU</item>
+               <item>
+                  <hi>The first and middle Finger make</hi> — EI</item>
+            </list>
+            <p>So that if you point once, these two Vow<g ref="char:EOLhyphen"/>els or Fingers of your left hand, with the first and second Fingers of your Right, you signi<g ref="char:EOLhyphen"/>fy two Vowels; and the Conjunction of two Vowels make a <hi>Dipthong.</hi>
+            </p>
+            <p>Lately, being in Company, I laid a Wa<g ref="char:EOLhyphen"/>ger with a Gentleman, to tell him any <hi>Word</hi> or <hi>Sentence</hi> he did impart to my Friend in <hi>La<g ref="char:EOLhyphen"/>tin,</hi> without his Information, and my Friends <hi>Word</hi> or <hi>Writing.</hi> The Gentleman did conje<g ref="char:EOLhyphen"/>cture, that I could know by Signs, something of his meaning; but could not know the in<g ref="char:EOLhyphen"/>dividual <hi>Word:</hi> Therefore, being confident in his own Judgment, laid a wager of six bot<g ref="char:EOLhyphen"/>tles of <hi>Canary.</hi> The <hi>Vintner</hi> himself holding stakes. And so my Friend</p>
+            <list>
+               <pb facs="tcp:175713:13"/>
+               <item>
+                  <hi>First moved his Finger to his Teeth.</hi> — D Dentes</item>
+               <item>
+                  <hi>Then moved the first, and se<g ref="char:EOLhyphen"/>cond Fingers of his right hand, to the Thumb and first Finger of his left.</hi>— Ae</item>
+               <item>
+                  <hi>Then to his Chin.</hi> — M Mentum</item>
+               <item>
+                  <hi>Then to the ring Finger of his left hand.</hi> —O</item>
+               <item>
+                  <hi>Then to his Nose.</hi>—N Nasus</item>
+            </list>
+            <p>Which all put together, make up the wo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>DAEMON,</hi> by which the young Spark swore when he lost the Wager, which the <hi>Vintner</hi> who held Stakes, was not backwards i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bringing in.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>THus have I said all that, at present, I intend on this Subject. I hope it will prove acceptable especially to the more knowing and courteous, if not, I shall be very sorry. However the price is small, and the time of perusing but short, and so both expen<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and loss will be but inconsiderable. I have laid a Foun<g ref="char:EOLhyphen"/>dation, whereon a more ingenious may build; and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> first my intention only was
+<q>
+                  <l>Stamina prima jugo imponere, atque ut altera Virtus</l>
+                  <l>Inser at in medio Radiis sub tegmen acutis.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
